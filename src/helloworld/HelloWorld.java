@@ -3,7 +3,7 @@ package helloworld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hell world  随便修改之后");
+		System.out.println("Hell world  脣忙卤茫脨脼赂脛脰庐潞贸  yyyy");
 
 	}
 
